@@ -1,0 +1,14 @@
+* {
+  font-size: 18px;
+  color: #213555;
+}
+
+@font-face {
+  font-family: nunito;
+  src: url(font.ttf);
+}
+
+body {
+  font-family: nunito, sans-serif;
+  background-color: #f0f0f0;
+}
